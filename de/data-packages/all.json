@@ -1451,7 +1451,6 @@
               "enum": [
                 "Siegel Faire Gemeinde",
                 "Kein Siegel",
-                "data.zertFB",
                 ""
               ]
             },
