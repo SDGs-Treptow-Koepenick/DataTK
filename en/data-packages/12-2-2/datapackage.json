@@ -16,6 +16,7 @@
             "constraints": {
               "enum": [
                 "",
+                "data.zertFB",
                 "Certificate",
                 "No Certificate"
               ]

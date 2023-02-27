@@ -21,6 +21,7 @@
               "enum": [
                 "data.zertFG",
                 "data.zertK",
+                "data.zertFB",
                 ""
               ]
             }
