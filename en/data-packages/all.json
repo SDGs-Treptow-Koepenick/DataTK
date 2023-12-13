@@ -620,6 +620,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.Baumscheibenpatenschaften",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "data.new",
+                "Total"
+              ]
+            },
+            "title": "data.Baumscheibenpatenschaften"
           }
         ]
       },
@@ -1175,7 +1187,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

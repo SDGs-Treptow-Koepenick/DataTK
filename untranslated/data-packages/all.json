@@ -567,6 +567,17 @@
             "type": "integer"
           },
           {
+            "name": "data.Baumscheibenpatenschaften",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.new",
+                "data.tot",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1100,7 +1111,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
