@@ -1,56 +1,68 @@
 Year,Art des Vorfalls,Value
+2023,Gesamt,451
 2022,Gesamt,350
 2021,Gesamt,387
 2020,Gesamt,329
 2019,Gesamt,324
 2018,Gesamt,448
 2017,Gesamt,311
+2023,Wahlkampf,0
+2022,Wahlkampf,0
+2021,Wahlkampf,0
 2020,Wahlkampf,3
 2019,Wahlkampf,14
 2018,Wahlkampf,0
 2017,Wahlkampf,18
+2023,Behindertenfeindlichkeit,3
 2022,Behindertenfeindlichkeit,0
 2021,Behindertenfeindlichkeit,1
 2020,Behindertenfeindlichkeit,2
 2019,Behindertenfeindlichkeit,0
 2018,Behindertenfeindlichkeit,0
 2017,Behindertenfeindlichkeit,0
+2023,Sozialchauvinismus,3
 2022,Sozialchauvinismus,1
 2021,Sozialchauvinismus,0
 2020,Sozialchauvinismus,0
 2019,Sozialchauvinismus,3
 2018,Sozialchauvinismus,1
 2017,Sozialchauvinismus,1
+2023,LGBTIQ*-Feindlichkeit,63
 2022,LGBTIQ*-Feindlichkeit,27
 2021,LGBTIQ*-Feindlichkeit,16
 2020,LGBTIQ*-Feindlichkeit,8
 2019,LGBTIQ*-Feindlichkeit,11
 2018,LGBTIQ*-Feindlichkeit,7
 2017,LGBTIQ*-Feindlichkeit,7
+2023,Antisemitismus,25
 2022,Antisemitismus,11
 2021,Antisemitismus,25
 2020,Antisemitismus,13
 2019,Antisemitismus,8
 2018,Antisemitismus,18
 2017,Antisemitismus,16
+2023,Rechte und extrem Rechte Selbstdarstellung,74
 2022,Rechte und extrem Rechte Selbstdarstellung,76
 2021,Rechte und extrem Rechte Selbstdarstellung,88
 2020,Rechte und extrem Rechte Selbstdarstellung,25
 2019,Rechte und extrem Rechte Selbstdarstellung,26
 2018,Rechte und extrem Rechte Selbstdarstellung,65
 2017,Rechte und extrem Rechte Selbstdarstellung,100
+2023,Politische Gegner*innen,81
 2022,Politische Gegner*innen,47
 2021,Politische Gegner*innen,60
 2020,Politische Gegner*innen,42
 2019,Politische Gegner*innen,35
 2018,Politische Gegner*innen,70
 2017,Politische Gegner*innen,41
+2023,NS-Verharmlosung und Verherrlichung,89
 2022,NS-Verharmlosung und Verherrlichung,97
 2021,NS-Verharmlosung und Verherrlichung,78
 2020,NS-Verharmlosung und Verherrlichung,103
 2019,NS-Verharmlosung und Verherrlichung,57
 2018,NS-Verharmlosung und Verherrlichung,67
 2017,NS-Verharmlosung und Verherrlichung,46
+2023,Rassismus,108
 2022,Rassismus,91
 2021,Rassismus,119
 2020,Rassismus,133
