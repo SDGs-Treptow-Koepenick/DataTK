@@ -1,4 +1,5 @@
 Year,data.incident,Value
+2024,data.tot,976
 2023,data.tot,451
 2022,data.tot,350
 2021,data.tot,387
@@ -6,6 +7,7 @@ Year,data.incident,Value
 2019,data.tot,324
 2018,data.tot,448
 2017,data.tot,311
+2024,data.wahlk,0
 2023,data.wahlk,0
 2022,data.wahlk,0
 2021,data.wahlk,0
@@ -13,6 +15,7 @@ Year,data.incident,Value
 2019,data.wahlk,14
 2018,data.wahlk,0
 2017,data.wahlk,18
+2024,data.ableism,1
 2023,data.ableism,3
 2022,data.ableism,0
 2021,data.ableism,1
@@ -20,6 +23,7 @@ Year,data.incident,Value
 2019,data.ableism,0
 2018,data.ableism,0
 2017,data.ableism,0
+2024,data.sozch,3
 2023,data.sozch,3
 2022,data.sozch,1
 2021,data.sozch,0
@@ -27,6 +31,7 @@ Year,data.incident,Value
 2019,data.sozch,3
 2018,data.sozch,1
 2017,data.sozch,1
+2024,data.qhostility,102
 2023,data.qhostility,63
 2022,data.qhostility,27
 2021,data.qhostility,16
@@ -34,6 +39,7 @@ Year,data.incident,Value
 2019,data.qhostility,11
 2018,data.qhostility,7
 2017,data.qhostility,7
+2024,data.antisem,6
 2023,data.antisem,25
 2022,data.antisem,11
 2021,data.antisem,25
@@ -41,6 +47,7 @@ Year,data.incident,Value
 2019,data.antisem,8
 2018,data.antisem,18
 2017,data.antisem,16
+2024,data.rightwing,154
 2023,data.rightwing,74
 2022,data.rightwing,76
 2021,data.rightwing,88
@@ -48,6 +55,7 @@ Year,data.incident,Value
 2019,data.rightwing,26
 2018,data.rightwing,65
 2017,data.rightwing,100
+2024,data.polgeg,372
 2023,data.polgeg,81
 2022,data.polgeg,47
 2021,data.polgeg,60
@@ -55,6 +63,7 @@ Year,data.incident,Value
 2019,data.polgeg,35
 2018,data.polgeg,70
 2017,data.polgeg,41
+2024,data.trivil,107
 2023,data.trivil,89
 2022,data.trivil,97
 2021,data.trivil,78
@@ -62,6 +71,7 @@ Year,data.incident,Value
 2019,data.trivil,57
 2018,data.trivil,67
 2017,data.trivil,46
+2024,data.racism,195
 2023,data.racism,108
 2022,data.racism,91
 2021,data.racism,119
