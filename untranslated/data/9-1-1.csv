@@ -39,8 +39,11 @@ Year,data.standort,Value
 2021,data.private,33
 2021,data.tot,49
 2022,data.public,16
-2022,data.private,39
-2022,data.tot,55
-2023,data.public,70
-2023,data.private,52
-2023,data.tot,122
+2022,data.private,40
+2022,data.tot,56
+2023,data.public,123
+2023,data.private,67
+2023,data.tot,190
+2024,data.public,155
+2024,data.private,71
+2024,data.tot,226
