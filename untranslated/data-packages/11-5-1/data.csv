@@ -1,4 +1,5 @@
 Year,data.area,Value
+2023,data.sied,5897
 2022,data.sied,5886
 2021,data.sied,5871
 2020,data.sied,5876
@@ -6,6 +7,7 @@ Year,data.area,Value
 2018,data.sied,5887
 2017,data.sied,5862
 2016,data.sied,5854
+2023,data.wohn,2729
 2022,data.wohn,2717
 2021,data.wohn,2697
 2020,data.wohn,2672
@@ -13,6 +15,7 @@ Year,data.area,Value
 2018,data.wohn,2621
 2017,data.wohn,2600
 2016,data.wohn,2562
+2023,data.indu,861
 2022,data.indu,856
 2021,data.indu,852
 2020,data.indu,843
@@ -20,6 +23,7 @@ Year,data.area,Value
 2018,data.indu,842
 2017,data.indu,838
 2016,data.indu,812
+2023,data.freiz,1487
 2022,data.freiz,1492
 2021,data.freiz,1497
 2020,data.freiz,1517

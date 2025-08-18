@@ -1,4 +1,5 @@
 Year,Area,Value
+2023,Settlement area,5897
 2022,Settlement area,5886
 2021,Settlement area,5871
 2020,Settlement area,5876
@@ -6,6 +7,7 @@ Year,Area,Value
 2018,Settlement area,5887
 2017,Settlement area,5862
 2016,Settlement area,5854
+2023,Residential area,2729
 2022,Residential area,2717
 2021,Residential area,2697
 2020,Residential area,2672
@@ -13,6 +15,7 @@ Year,Area,Value
 2018,Residential area,2621
 2017,Residential area,2600
 2016,Residential area,2562
+2023,Industrial and commercial area,861
 2022,Industrial and commercial area,856
 2021,Industrial and commercial area,852
 2020,Industrial and commercial area,843
@@ -20,6 +23,7 @@ Year,Area,Value
 2018,Industrial and commercial area,842
 2017,Industrial and commercial area,838
 2016,Industrial and commercial area,812
+2023,"Sports, leisure and recreation area",1487
 2022,"Sports, leisure and recreation area",1492
 2021,"Sports, leisure and recreation area",1497
 2020,"Sports, leisure and recreation area",1517

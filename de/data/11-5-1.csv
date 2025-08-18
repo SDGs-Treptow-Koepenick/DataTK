@@ -1,4 +1,5 @@
 Year,Fläche,Value
+2023,Siedlungsfläche,5897
 2022,Siedlungsfläche,5886
 2021,Siedlungsfläche,5871
 2020,Siedlungsfläche,5876
@@ -6,6 +7,7 @@ Year,Fläche,Value
 2018,Siedlungsfläche,5887
 2017,Siedlungsfläche,5862
 2016,Siedlungsfläche,5854
+2023,Wohnbaufläche,2729
 2022,Wohnbaufläche,2717
 2021,Wohnbaufläche,2697
 2020,Wohnbaufläche,2672
@@ -13,6 +15,7 @@ Year,Fläche,Value
 2018,Wohnbaufläche,2621
 2017,Wohnbaufläche,2600
 2016,Wohnbaufläche,2562
+2023,Industrie- und Gewerbefläche,861
 2022,Industrie- und Gewerbefläche,856
 2021,Industrie- und Gewerbefläche,852
 2020,Industrie- und Gewerbefläche,843
@@ -20,6 +23,7 @@ Year,Fläche,Value
 2018,Industrie- und Gewerbefläche,842
 2017,Industrie- und Gewerbefläche,838
 2016,Industrie- und Gewerbefläche,812
+2023,"Sport-, Freizeit- und Erholungsfläche",1487
 2022,"Sport-, Freizeit- und Erholungsfläche",1492
 2021,"Sport-, Freizeit- und Erholungsfläche",1497
 2020,"Sport-, Freizeit- und Erholungsfläche",1517
